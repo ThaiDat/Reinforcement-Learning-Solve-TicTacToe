@@ -1,5 +1,4 @@
 # Reinforcement-Learning-Solve-TicTacToe
----
 
 A TicTacToe solver based on Reinforcement Learning, using Dynamic Programming approach.
 
