@@ -1,6 +1,6 @@
 import pickle
 from random import choice, seed
-from DP import get_possible_moves, check_win_bit, gamma, theta, R, RLose
+from DynamicProgramming import get_possible_moves, check_win_bit, gamma, theta, R, RLose
 
 board = [[0, 0, 0],
          [0, 0, 0],
